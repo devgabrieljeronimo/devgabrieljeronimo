@@ -2,11 +2,11 @@
 
 Hi, it's just a prototype
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/devgabrieljeronimo/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=devgabrieljeronimo&icons=true&theme=github_dark" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgabrieljeronimo&layout=compact&icons=true&theme=github_dark" />
+<a href="https://github.com/devgabrieljeronimo/convoychat">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgabrieljeronimo&layout=compact&icons=true&theme=github_dark" />
 </a>
 
 <div style="display: inline_block"><br>
