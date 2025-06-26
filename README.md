@@ -5,10 +5,10 @@ Hi, it's just a prototype
 <table>
   <tr>
     <td>
-      <img height="150" src="https://github-readme-stats.vercel.app/api?username=devgabrieljeronimo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
+      <img height="170" src="https://github-readme-stats.vercel.app/api?username=devgabrieljeronimo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
     </td>
     <td>
-      <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgabrieljeronimo&layout=compact&langs_count=16&show_icons=true&theme=github_dark" />
+      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgabrieljeronimo&layout=compact&langs_count=16&show_icons=true&theme=github_dark" />
     </td>
   </tr>
 </table>
