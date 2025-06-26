@@ -1,7 +1,6 @@
 ## Gabriel Jeronimo
 
 Hi, it's just a prototype
-##
 
 <!--<table>
   <tr>
@@ -19,10 +18,10 @@ Hi, it's just a prototype
 
 
 <div style="display: inline_block"><br>
-  <img aling="center" alt="gabri-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img aling="center" alt="gabri-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
-  <img aling="center" alt="gabri-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-  <img aling="center" alt="gabri-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+  <img aling="center" alt="gabri-Java" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+  <img aling="center" alt="gabri-Spring" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
+  <img aling="center" alt="gabri-Git" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+  <img aling="center" alt="gabri-MySQL" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
 
   <!-- Things I don't need, yet
   <img align="center" alt="gabri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
