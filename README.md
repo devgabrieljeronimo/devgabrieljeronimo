@@ -2,11 +2,16 @@
 
 Hi, it's just a prototype
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=devgabrieljeronimo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgabrieljeronimo&layout=compact&langs_count=16&show_icons=true&theme=github_dark" />
-</p>
-
+<table>
+  <tr>
+    <td>
+      <img height="170" src="https://github-readme-stats.vercel.app/api?username=devgabrieljeronimo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
+    </td>
+    <td>
+      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgabrieljeronimo&layout=compact&langs_count=16&show_icons=true&theme=github_dark" />
+    </td>
+  </tr>
+</table>
 
 <div style="display: inline_block"><br>
   <img aling="center" alt="gabri-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
