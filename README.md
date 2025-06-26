@@ -2,12 +2,11 @@
 
 Hi, it's just a prototype
 
-<a href="https://github.com/devgabrieljeronimo/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=devgabrieljeronimo&icons=true&theme=github_dark" />
-</a>
-<a href="https://github.com/devgabrieljeronimo/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgabrieljeronimo&layout=compact&icons=true&theme=github_dark" />
-</a>
+<div>
+  <a href="https://beacons.ai/devgabrieljeronimo">
+    <img height=180 src="https://github-readme-stats.vercel.app/api?username=devgabrieljeronimo&show_icons=true&theme=github_dark" />
+    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgabrieljeronimo&layout=compact&show_icons=true&theme=github_dark" />
+</div>
 
 <div style="display: inline_block"><br>
   <img aling="center" alt="gabri-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
