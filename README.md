@@ -1,8 +1,9 @@
 ## Gabriel Jeronimo
 
 Hi, it's just a prototype
+##
 
-<table>
+<!--<table>
   <tr>
     <td>
       <img height="170" src="https://github-readme-stats.vercel.app/api?username=devgabrieljeronimo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
@@ -11,7 +12,11 @@ Hi, it's just a prototype
       <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgabrieljeronimo&layout=compact&langs_count=16&show_icons=true&theme=github_dark" />
     </td>
   </tr>
-</table>
+</table>-->
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=devgabrieljeronimo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devgabrieljeronimo&layout=compact&langs_count=16&show_icons=true&theme=github_dark)
+
 
 <div style="display: inline_block"><br>
   <img aling="center" alt="gabri-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
