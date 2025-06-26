@@ -2,6 +2,13 @@
 
 Hi, it's just a prototype
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=devgabrieljeronimo&icons=true&theme=github_dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgabrieljeronimo&layout=compact&icons=true&theme=github_dark" />
+</a>
+
 <div style="display: inline_block"><br>
   <img aling="center" alt="gabri-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img aling="center" alt="gabri-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
@@ -17,7 +24,7 @@ Hi, it's just a prototype
   <img align="center" alt="gabri-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="gabri-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">-->
 </div>
-   
+
 ##
  
 <div> 
@@ -28,10 +35,6 @@ Hi, it's just a prototype
   <a href = "gabrieljeronimo2b.007@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-jer%C3%B4nimo-426905371" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-##
-
-[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=devgabrieljeronimo&show_icons=true&theme=github_dark)](https://github.com/devgabrieljeronimo/github-readme-stats)
 
 <!--
 **devgabrieljeronimo/devgabrieljeronimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
