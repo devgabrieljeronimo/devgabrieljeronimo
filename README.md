@@ -24,7 +24,7 @@ Hi, it's just a prototype
   <img align="center" alt="gabri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="gabri-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="gabri-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">-->
-  <img align="right" alt="The-Idea" src="imagens/The_Idea.gif" width="200px" alt="The Idea">
+  <img align="right" alt="The-Idea" src="imagens/The_Idea.gif" width="100px" alt="The Idea">
 </div>
 
 ##
