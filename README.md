@@ -2,10 +2,6 @@
 
 Hi, it's just a prototype
 
-- 🔭 I’m currently working on tic-tac-toe
-- 🌱 I’m currently learning Spring
-- 😄 Pronouns: he/him
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=devgabrieljeronimo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devgabrieljeronimo&layout=compact&langs_count=16&show_icons=true&theme=github_dark)
 
@@ -27,7 +23,7 @@ Hi, it's just a prototype
   <img align="right" alt="The-Idea" src="imagens/The_Idea.gif" width="150px" alt="The Idea">
 </div>
 
-##
+*Connect with me!*
  
 <div> 
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -37,6 +33,10 @@ Hi, it's just a prototype
   <a href = "gabrieljeronimo2b.007@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-jer%C3%B4nimo-426905371" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+
+
+
 
 <!--
 **devgabrieljeronimo/devgabrieljeronimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
