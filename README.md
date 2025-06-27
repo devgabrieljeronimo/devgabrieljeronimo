@@ -1,9 +1,10 @@
-## Gabriel Jeronimo
-
+<div align="left">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&pause=3000&width=435&lines=Hi%2C+my+name's+Gabriel+Jeronimo!" alt="Typing SVG" /></a>
+</div>
 Hi, it's just a prototype
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=devgabrieljeronimo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devgabrieljeronimo&layout=compact&langs_count=16&show_icons=true&theme=github_dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=devgabrieljeronimo&show_icons=true&theme=transparent&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devgabrieljeronimo&layout=compact&langs_count=16&show_icons=true&theme=transparent)
 
 
 <div style="display: inline_block"><br>
@@ -23,7 +24,7 @@ Hi, it's just a prototype
   <img align="right" alt="The-Idea" src="imagens/The_Idea.gif" width="150px" alt="The Idea">
 </div>
 
-*Connect with me!*
+**Connect with me!**
  
 <div> 
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
