@@ -2,13 +2,18 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&pause=3000&width=522&height=60&lines=%E2%9C%A7+Hi%2C+my+name's+Gabriel+Jeronimo!" alt="Typing SVG" /></a>
 </div>
 
-<p>
+#
+<div>
+  <p>
   
 I'm a backend developer and it just a prototype 9tgresfgh dfghgfdsasdfgtres<br>
 gsdg dfgeasju okjnbjytfdsxc nhgfdcvb ghtrewqsd grewazxcv dgresd sWGVCXS Qej<br>
 oiugvbnjuygbnjiuygvbaz jgfvh fdxdsertyuibh hgfdc dfg dfvcxfy cdfgvcfgbn hho
   
 </p>
+</div>
+
+#
 
 <div style="display: inline_block">
   
