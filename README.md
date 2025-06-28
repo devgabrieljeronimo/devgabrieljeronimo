@@ -3,7 +3,7 @@
 </div>
 
 #
-<div>
+<div align="center">
   <p>
   
 I'm a backend developer and it just a prototype 9tgresfgh dfghgfdsasdfgtres<br>
@@ -14,6 +14,8 @@ oiugvbnjuygbnjiuygvbaz jgfvh fdxdsertyuibh hgfdc dfg dfvcxfy cdfgvcfgbn hho
 </div>
 
 #
+
+<img align="right" alt="The-Idea" height="220" src="imagens/WNnv.gif">
 
 <div style="display: inline_block">
   
@@ -32,7 +34,6 @@ oiugvbnjuygbnjiuygvbaz jgfvh fdxdsertyuibh hgfdc dfg dfvcxfy cdfgvcfgbn hho
   <img align="center" alt="gabri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="gabri-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="gabri-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">-->
-  <img align="right" alt="The-Idea" height="200" width="380" src="imagens/WNnv.gif" width="150px" alt="Coding">
   
 </div><br>
 
@@ -54,6 +55,10 @@ oiugvbnjuygbnjiuygvbaz jgfvh fdxdsertyuibh hgfdc dfg dfvcxfy cdfgvcfgbn hho
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=devgabrieljeronimo&show_icons=true&theme=holi&include_all_commits=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devgabrieljeronimo&layout=compact&langs_count=16&show_icons=true&theme=holi)
+
+#
+
+
 
 
 
