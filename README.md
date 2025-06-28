@@ -19,10 +19,10 @@ oiugvbnjuygbnjiuygvbaz jgfvh fdxdsertyuibh hgfdc dfg dfvcxfy cdfgvcfgbn hho
   
   <h3>My Stack ➤</h3>
   
-  <img aling="center" alt="gabri-Java" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img aling="center" alt="gabri-Spring" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
-  <img aling="center" alt="gabri-Git" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-  <img aling="center" alt="gabri-MySQL" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+  <img aling="center" alt="gabri-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+  <img aling="center" alt="gabri-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
+  <img aling="center" alt="gabri-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+  <img aling="center" alt="gabri-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
 
   <!-- Things I don't need, yet
   <img align="center" alt="gabri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -32,7 +32,7 @@ oiugvbnjuygbnjiuygvbaz jgfvh fdxdsertyuibh hgfdc dfg dfvcxfy cdfgvcfgbn hho
   <img align="center" alt="gabri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="gabri-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="gabri-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">-->
-  <img align="right" alt="The-Idea" height="200" width="370" src="imagens/WNnv.gif" width="150px" alt="Coding">
+  <img align="right" alt="The-Idea" height="200" width="400" src="imagens/WNnv.gif" width="150px" alt="Coding">
   
 </div><br>
 
