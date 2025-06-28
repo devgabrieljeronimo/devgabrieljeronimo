@@ -2,8 +2,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&duration=4000&pause=3000&width=522&height=60&lines=%E2%9C%A7+Hi%2C+my+name's+Gabriel+Jeronimo!+%E2%9C%A7;%E2%9C%A7+Welcome+to+my+profile!+(%E2%80%A2%E2%80%BF%E2%80%A2)+%E2%9C%A7" alt="Typing SVG" /></a>
 </div>
 
-#
-
 <div align="center">
   <p>
 I'm a backend developer and it just a prototype 9tgresfgh dfghgfdsasdfgtres<br>
