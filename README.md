@@ -3,9 +3,9 @@
 </div>
 
 #
+
 <div align="center">
   <p>
-  
 I'm a backend developer and it just a prototype 9tgresfgh dfghgfdsasdfgtres<br>
 gsdg dfgeasju okjnbjytfdsxc nhgfdcvb ghtrewqsd grewazxcv dgresd sWGVCXS Qej<br>
 oiugvbnjuygbnjiuygvbaz jgfvh fdxdsertyuibh hgfdc dfg dfvcxfy cdfgvcfgbn hho
@@ -15,7 +15,7 @@ oiugvbnjuygbnjiuygvbaz jgfvh fdxdsertyuibh hgfdc dfg dfvcxfy cdfgvcfgbn hho
 
 #
 
-<img align="right" alt="The-Idea" height="220" src="imagens/WNnv.gif">
+<img align="right" alt="Coding-in-blue" height="230" src="imagens/WNnv.gif">
 
 <div style="display: inline_block">
   
@@ -58,7 +58,11 @@ oiugvbnjuygbnjiuygvbaz jgfvh fdxdsertyuibh hgfdc dfg dfvcxfy cdfgvcfgbn hho
 
 #
 
-
+<picture align="center">
+  <source media="(prefers-color-scheme: github-dark)" srcset="https://raw.githubusercontent.com/devgabrieljeronimo/devgabrieljeronimo/output/github-contribution-grid-snake-dark.svg">
+  <!--<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devgabrieljeronimo/devgabrieljeronimo/output/github-contribution-grid-snake-dark.svg">-->
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/devgabrieljeronimo/devgabrieljeronimo/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 
