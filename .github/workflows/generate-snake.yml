@@ -7,6 +7,8 @@ on:
 
 jobs:
   generate:
+    permissions:
+      contents: write # 👉 permite que a Action dê push no branch
     runs-on: ubuntu-latest
     steps:
       - name: Generate Snake
